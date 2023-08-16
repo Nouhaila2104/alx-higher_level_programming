@@ -4,8 +4,8 @@
 /**
  * print_python_bytes - Prints bytes information
  *
- * @p: Python Ovbject
- * Return: no vreturn
+ * @p: Python Object
+ * Return: no return
  */
 void print_python_bytes(PyObject *p)
 {
@@ -44,8 +44,8 @@ void print_python_bytes(PyObject *p)
 /**
  * print_python_list - Prints list information
  *
- * @p: Pythonv Object
- * Return: nvo return
+ * @p: Python Object
+ * Return: no return
  */
 void print_python_list(PyObject *p)
 {
